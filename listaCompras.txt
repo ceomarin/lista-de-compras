@@ -38,3 +38,13 @@ Mantequilla (1 unidad)
 Té (1 caja de 20)
 Café (1 tarro)
 Azúcar (1 kg)
+"Gale",
+"Astarion",
+"Lae'zel",
+"Shadowheart",
+"Wyll",
+"Karlach",
+"Volo",
+"Gortash",
+"Halsin",
+"Minthara"
