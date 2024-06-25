@@ -1,0 +1,10 @@
+"Gale",
+"Astarion",
+"Lae'zel",
+"Shadowheart",
+"Wyll",
+"Karlach",
+"Volo",
+"Gortash",
+"Halsin",
+"Minthara"
